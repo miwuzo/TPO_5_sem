@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EaqJ0heVqg5iD3tJVC1x//sZ81uTUh/WaQzKHlde17OzRSrx5g6E0hx26538tHJ77JFLsjg+rBvOSabwELWXNQ==",
+  "success": true,
+  "projectFilePath": "Y:\\_V\\тпо\\тпо 8\\Lab07\\Lab07.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yana\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}
