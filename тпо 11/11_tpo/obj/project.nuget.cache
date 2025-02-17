@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJ0R2HeOvj7LJiXSaZw7H3OMLPYOZaHzlPs3kHDojdLQFvSEVtVRjn4uY3v1iclhLT47TbiBXqS6JZfQ6fv9lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yana\\OneDrive\\Рабочий стол\\11_tpo\\11_tpo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yana\\.nuget\\packages\\selenium.webdriver\\4.26.1\\selenium.webdriver.4.26.1.nupkg.sha512",
+    "C:\\Users\\yana\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.8500\\selenium.webdriver.chromedriver.131.0.6778.8500.nupkg.sha512"
+  ],
+  "logs": []
+}
