@@ -1,0 +1,14 @@
+[
+    {
+      "Name": "PlaceOrder_ValidOrder_ReturnsTrue",
+      "Outcome": "Passed"
+    },
+    {
+      "Name": "PlaceOrder_ZeroAmount_ReturnsFalse",
+      "Outcome": "Ignored"
+    },
+    {
+      "Name": "PlaceOrder_NegativeAmount_ReturnsFalse",
+      "Outcome": "Failed"
+    }
+  ]
